@@ -1,0 +1,141 @@
+.admin-container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.admin-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.admin-container h2 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.admin-container p {
+    margin-bottom: 10px;
+    color: #666;
+    text-align: justify;
+}
+
+.admin-container a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.admin-container a:hover {
+    text-decoration: underline;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.admin-button {
+    padding: 15px 30px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #0073aa;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.admin-button:hover {
+    background-color: #005f8d;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.admin-button:active {
+    background-color: #004c72;
+}
+
+
+.admin-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.admin-buttons button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #0073aa;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.admin-buttons button:hover {
+    background-color: #005f8d;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.admin-buttons button:active {
+    background-color: #004c72;
+}
+
+
+
+
+
+
+.admin-content {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.admin-content h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+    text-align: center;
+}
+
+.admin-content h2 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.admin-content p {
+    margin-bottom: 10px;
+    color: #666;
+    text-align: justify;
+}
+
+.admin-content a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.admin-content a:hover {
+    text-decoration: underline;
+}
+
