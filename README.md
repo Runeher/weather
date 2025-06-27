@@ -1,4 +1,4 @@
-<b>Weather for XOOPS CMS</b>
+# Weather for XOOPS CMS
 
 Weather is a lightweight XOOPS module that displays weather forecasts using MET's API. It supports timezone conversion, dynamic location search, and a configurable admin panel.
 
